@@ -21,9 +21,9 @@ dEo2NFpxYmRMdw==
 
 However, the password is encoded in base64 format which can be easily decoded in bash using the following.
 
-`
+```sh
 echo -n dEo2NFpxYmRMdw== | base64 -d
-`
+```
 
 The flag is tJ64ZqbdLw
 

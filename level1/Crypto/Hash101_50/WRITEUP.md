@@ -73,7 +73,7 @@ s.close()
 
 ## Outputs
 
-`
+```
 Welcome to Hashes 101!
 
 There are 4 Levels. Complete all and receive a prize!
@@ -125,6 +125,7 @@ TO CLAIM YOUR PRIZE, give me the string password that will result in this MD5 ha
 crack: p4p3r
 Correct! Completed level 4
 You completed all 4 levels! Here is your prize: 8b95d8e7ccd0e41b8f989195443a9072
-`
+
+```
 
 (Completed)
