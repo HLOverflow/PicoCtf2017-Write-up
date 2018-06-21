@@ -38,7 +38,7 @@ fo.close()
 
 b = ''
 for imbyte in data:
-	b+=str(ord(imbyte) & 1)
+	b+=str(ord(imbyte) & 1)		# get only the last bit
 
 #print b
 #print len(b)
