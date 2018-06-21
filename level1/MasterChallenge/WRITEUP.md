@@ -20,7 +20,7 @@ Due to the checking implemented in javascript, we can open up browser javascript
 
 ![](Screenshots/4_lvl1.png)
 
-When we click submit, validate returns true and we got out flag.
+When we click submit, validate returns true and we got our flag.
 
 
 The flag is client_side_is_the_dark_sidebde1f567656f8c9b654a1ec24e1ff889
