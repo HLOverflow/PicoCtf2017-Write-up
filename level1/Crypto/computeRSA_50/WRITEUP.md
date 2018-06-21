@@ -9,8 +9,11 @@ RSA encryption/decryption is based on a formula that anyone can find and use, as
 This is just calculation of numbers.
 
 RSA formula 
+
 for encryption:  c = m^e (mod N)
+
 for decryption:  m = c^d (mod N)
+
 
 ```
 Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
