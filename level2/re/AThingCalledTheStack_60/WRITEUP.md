@@ -1,4 +1,4 @@
-# A Thing Called the Stack
+# A Thing Called the Stack [ 60 Pts ]
 
 ## Problem
 
