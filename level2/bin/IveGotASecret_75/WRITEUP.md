@@ -268,6 +268,7 @@ Flag{SampleFlag}
 
 ### Remote
 
+```
 $ nc shell2017.picoctf.com 10750
 Give me something to say!
 %6$08x
@@ -275,5 +276,6 @@ Give me something to say!
 Now tell my secret in hex! Secret: 06ad87b1
 1ba85d212f80746e0c61b8d45bc690b6
 Wow, you got it!
+```
 
 (Completed)
