@@ -152,8 +152,6 @@ p.close()
 
 Pwntool is more flexible and is much more useful when there are multiple I/O where the next input depends on the previous.
 
-### Output
-
 ```
 $ python vrgearbo.py 
 [+] Starting local process './vrgearconsole': pid 17288
@@ -193,4 +191,4 @@ FLAG{SampleFlag}
 
 The flag is da1e62f3da550878ed92d3d55d61fe7d
 
-(TODO)
+(Completed)
